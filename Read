@@ -1,0 +1,7 @@
+projet gestion de journal avec javaEE 
+on a trois utilisateurs : admin , client et visiteur 
+on peut ajouter modifier supprimier des articles , des images 
+l utilisateur peut faire la MAJ 
+le client peut faire juste la modification et l'ajout 
+le visiteur peut juste visualiser les articles et les images 
+utilisation de jstl , langage el , jsp
